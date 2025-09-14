@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Osama Bin Atya</h1>
+<h1 align="center">Hi 👋! I'm Osama Bin Atya</h1>
 
 ###
 
